@@ -163,7 +163,7 @@
     width: 240px;
     height: 150px;
     object-fit: cover;
-    -o-object-position: center;
+    object-position: center;
 }
 
 .we_offer .card h2 {
