@@ -200,6 +200,8 @@ font-size: 13px;
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 24px;
 }
 
 .collections_card_container .card {
